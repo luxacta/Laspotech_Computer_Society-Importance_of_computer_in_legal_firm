@@ -1,6 +1,5 @@
 {
   "name": "landing-page-computer-sci-grp-6",
-  "homepage": "http://luxacta.github.io/computer-society",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
