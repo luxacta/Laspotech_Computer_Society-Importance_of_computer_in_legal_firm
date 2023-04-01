@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm/static/css/main.c54a0e61.css",
+    "main.js": "/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm/static/js/main.a150bb43.js",
+    "static/media/file.pdf": "/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm/static/media/file.39c011ae30b1c97f6f8b.pdf",
+    "static/media/im.jpg": "/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm/static/media/im.26e6b212c036dc05131e.jpg",
+    "static/media/logo.png": "/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm/static/media/logo.5c6f585b8f27164422f3.png",
+    "static/media/logo-2.png": "/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm/static/media/logo-2.4d941d818d2958c837b6.png",
+    "static/media/hero-bg.jpeg": "/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm/static/media/hero-bg.4fd3cbde0456469d8f8e.jpeg",
+    "index.html": "/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm/index.html",
+    "main.c54a0e61.css.map": "/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm/static/css/main.c54a0e61.css.map",
+    "main.a150bb43.js.map": "/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm/static/js/main.a150bb43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c54a0e61.css",
+    "static/js/main.a150bb43.js"
+  ]
+}

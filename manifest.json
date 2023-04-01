@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://lasustech.edu.ng/wp-content/uploads/2022/05/lasustech_logo-120x120.png",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://lasustech.edu.ng/wp-content/uploads/2022/05/lasustech_logo-120x120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "https://lasustech.edu.ng/wp-content/uploads/2022/05/lasustech_logo-220x220.png",
+      "type": "image/png",
+      "sizes": "220x220"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
