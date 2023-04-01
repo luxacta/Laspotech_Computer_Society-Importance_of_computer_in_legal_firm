@@ -1,5 +1,6 @@
 {
   "name": "landing-page-computer-sci-grp-6",
+  "homepage": "http://luxacta.github.io/Laspotech_Computer_Society-Importance_of_computer_in_legal_firm",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,8 +14,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
